@@ -225,7 +225,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-z1K9O5wVzDAjl6\/Kwd\/NndXtZAopktz+XhvyuMb\/jUU=",
+      "hash": "sha256-K7f2fJmMFbAYSMxWpnWSd5G5bi6p5SFH6ZESUNu9fUg=",
       "url": "index.html"
     },
     {
@@ -233,5 +233,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "+btFtRc3"
+  "version": "Foewqn80"
 };
